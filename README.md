@@ -255,4 +255,28 @@ Capitulo 10
 
         El material que tiene mayor retentividad es el material A
 
-       
+10. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular al campo magnético?
+
+La intensidad del campo magnético, la longitud del conductor expuesta al campo, y la velocidad de rotación del conductor
+
+11. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
+
+La ley de Lenz define la polaridad o dirección del voltaje inducido.
+
+Explique el propósito del conmutador y de las escobillas en la figura 10-35.
+
+![image](https://user-images.githubusercontent.com/94153604/148386693-23d894d5-a667-4493-abf8-b956fba4ef47.png)
+
+El ensamble de conmutador y escobilla conecta eléctricamente la espira al circuito externo
+
+13. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.
+
+![image](https://user-images.githubusercontent.com/94153604/148386788-5e92be3f-57af-4278-97b4-74732bf1e5d8.png)
+
+4. Video 
+
+
+5. Conclusiones
+
+
+
