@@ -13,3 +13,12 @@ Realizar organizadores gráficos donde muestren información sobre los temas pri
 Resolver los ejercicios de manera correcta, aplicando conceptos importantes. 
 
 Identificar las formulas a utiliza en la resolución de los problemas planteados . 
+
+2. Marco Teórico
+
+![image](https://user-images.githubusercontent.com/93958596/148309262-1ea36cb1-29c1-4e57-8016-2257dca37d4b.png)
+
+![image](https://user-images.githubusercontent.com/93958596/148309275-d5f6fa8e-fab4-4254-938f-2c6dfce9b648.png)
+
+3. Explicación y resolución de ejercicios
+
