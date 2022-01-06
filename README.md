@@ -184,4 +184,54 @@ Entonces las corrientes son:
     IB = -0.0613 A = -61.3 mA
     IC = 0.0615 A = 61.5 mA
 
+Determine el voltaje entre las terminales del puente abierto, A y B
 
+![image](https://user-images.githubusercontent.com/94011974/148329620-c6edfc2c-de85-4784-9343-81ed8485fd56.png)
+
+![image](https://user-images.githubusercontent.com/94011974/148329661-d1585295-a894-4ecb-807d-479d94bec086.png)
+
+25. Escriba las ecuaciones de lazo en la forma eestandar para el ciercuito puente T 
+
+![image](https://user-images.githubusercontent.com/94011974/148329787-5010ea39-e225-4471-8a0e-3666b3b0b153.png)
+
+![image](https://user-images.githubusercontent.com/94011974/148329843-df863544-7cae-4f55-9635-856360ed2c08.png)
+
+27. Cuales son los valores de corriente de rama En cada rama muestre la direccion real de la corriente
+
+![image](https://user-images.githubusercontent.com/94011974/148329980-4fd8f7c5-f7ae-44c2-85b1-7b619783e1ef.png)
+
+![image](https://user-images.githubusercontent.com/94011974/148330019-d3abeb76-3c15-454c-bd8e-75fb9330ca69.png)
+
+29. Use el analisis de nodos para determunar el voltaje en los puntos A y B con respecto a tierra
+
+![image](https://user-images.githubusercontent.com/94011974/148330130-49f55a17-bbe9-47c6-b321-0681b4b0452c.png)
+
+31. Use el analisis de nodos el de lazos o cualquier otro procedimeineto para determinar las corrientes y los voltajes en cada nodo desconocido
+
+![image](https://user-images.githubusercontent.com/94011974/148330297-73a1c749-130e-4a87-adc8-bc82f27c0259.png)
+
+![image](https://user-images.githubusercontent.com/94011974/148330336-32e5239e-d313-48d6-8574-453919933220.png)
+
+Capitulo 10
+
+1. El area de seccion transversal de un campo magnetico se incrementa, pero el flujo no cambia . La densidad de flujo aumenta o disminuye.
+
+Aumenta
+
+2.Cual es el flujo en un matrerial magnetico cuando la densidad de flujo es de 2500x10 -6 T y el area de seccion transversal mide 150 cm 
+
+7.04
+
+3. Un iman permanente muy fuerte tiene un campo magnetico de 1000000uT Exprese esta densidad de flujo en gauss
+
+
+
+4. Cual es la permeabbilidad relativa de un material ferromagnetico cuya permeabilidad absoluta es de 750x10-6 Wb/At-m?
+
+22.5
+
+5. Cual es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo hay 3 A de corriente a traves de el
+
+14.6
+
+2.
