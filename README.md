@@ -216,23 +216,24 @@ Capitulo 10
 
 1. El area de seccion transversal de un campo magnetico se incrementa, pero el flujo no cambia . La densidad de flujo aumenta o disminuye.
 
-        Aumenta
+        Disminuye
 
 2.Cual es el flujo en un matrerial magnetico cuando la densidad de flujo es de 2500x10 -6 T y el area de seccion transversal mide 150 cm 
 
-    7.04
+        37.5 uWb
 
 3. Un iman permanente muy fuerte tiene un campo magnetico de 1000000uT Exprese esta densidad de flujo en gauss
 
-
+        1000 G
 
 4. Cual es la permeabbilidad relativa de un material ferromagnetico cuya permeabilidad absoluta es de 750x10-6 Wb/At-m?
 
-        22.5
+        597
 
 5. Cual es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo hay 3 A de corriente a traves de el
 
-        14.6
+        150 At
+        
 6. ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide? ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
 
         -	La fuerza que lo mueve es el campo electromagnético
