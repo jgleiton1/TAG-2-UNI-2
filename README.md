@@ -284,4 +284,6 @@ En la solución de los ejercicios se debe manejar de manera correcta los metodos
 
 En el caso de analisis de  ramas, lazos y nodos no existen formulas definidas, puesto que como se manifiesta que se analiza el circuito para poder establecer ecuaciones de segundo o tercer orden,  pero en el caso de magnetismo y electromagnetismo se  determina la formula de  densidad de flujo magnetico , permeabilidad, entre otros. 
 
+6. Bibliografía
 
+Floyd, T. (2007). Principio de Circuitos Eléctricos. Pearson, Prentice Hall
