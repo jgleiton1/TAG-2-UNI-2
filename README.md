@@ -278,5 +278,10 @@ El ensamble de conmutador y escobilla conecta eléctricamente la espira al circu
 
 5. Conclusiones
 
+En el analisis de  ramas, lazos y nodos se encuentran las ecuaciones de segundo y tercer grado, mediate su soluciòn se obtendra el valor de las incognitas, se puede resolver por medio de sustituciòn, determinantes o la calculadora. El metodo de  la corriente en ramas  conlleva unos pasos a seguir para facilitar  la solución del problema , así mismo el método del voltaje de nodos y el método de la corriente en trayectorias cerradas. El electomagnetismo  se divide en diferentes subtemas con la presencia de varias formulas. 
+
+En la solución de los ejercicios se debe manejar de manera correcta los metodos para resolver ecuaciones d eprimer y segundo orden ásdema de conocer que el método  de la corriente en ramas  utiliza  las leyes de voltaje y de la corriente de kirchhoff,en el caso de magnetismo y electromagnetismo , se puede definor que el grupo de líneas de fuerza que van del polo norte al polo sur de un imán se llama flujo magnetico, la densidad de flujo magnético es la cantidad de flujo por unidad de área perpendicular al campo magnético, también s eencuentran presentes las propiedades electromagnéticas. 
+
+En el caso de analisis de  ramas, lazos y nodos no existen formulas definidas, puesto que como se manifiesta que se analiza el circuito para poder establecer ecuaciones de segundo o tercer orden,  pero en el caso de magnetismo y electromagnetismo se  determina la formula de  densidad de flujo magnetico , permeabilidad, entre otros. 
 
 
