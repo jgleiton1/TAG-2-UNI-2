@@ -273,8 +273,9 @@ El ensamble de conmutador y escobilla conecta eléctricamente la espira al circu
 
 ![image](https://user-images.githubusercontent.com/94153604/148386788-5e92be3f-57af-4278-97b4-74732bf1e5d8.png)
 
-4. Video 
+4. Video
 
+https://www.youtube.com/watch?v=ofYJrRA_9JY
 
 5. Conclusiones
 
